@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4A75538D-D7B9-4701-9D44-456B72D64C9F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96DA13DB-E2AC-446D-A229-BFE399D9D1EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculatorApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "digitPressed(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "calculatorApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - b8d96b99601d99ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.typing.getter : Swift.Bool"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - d531b97aaf6171a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.typing.setter : Swift.Bool"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - c498045b813c7939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.typing.modify : Swift.Bool"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - 57f542b2ec7517a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.typing.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - ce72e02d9021abf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; calculatorApp.ViewController"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "208">
+               </Location>
+               <Location
+                  uuid = "F7139206-23A1-4838-9BE0-7B849FDDB84A - 670c5a4ffdb21969"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "calculatorApp.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;calculatorApp.ViewController&gt;"
+                  moduleName = "calculatorApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zajsan/Desktop/coding/swift/calculatorApp/calculatorApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
